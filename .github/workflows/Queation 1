@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int n, m, o;
+cout<<"ENTER THREE NUMBERS YOU WANT TO ADD"<<endl;
+cin>>n>>m>>o;
+cout<<"SUM OF THREE NUMBERS"<<endl;
+cout<<n+m+o;
+return 0;
+}
